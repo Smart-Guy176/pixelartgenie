@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Art Genie",
+  "description": "An application that uses AI (Gemini and Imagen) to transform user ideas into pixel art. Users input a prompt, which is then refined by an AI and used to generate a pixel art image.",
+  "requestFramePermissions": []
+}
